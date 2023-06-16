@@ -2,8 +2,8 @@ backend:
   name: github
   repo: # for example username/reponame
   branch: main # Branch to update (optional; defaults to master)
-  site_domain:"yellow-stone-0828ff30f.3.azurestaticapps.net" # for example www.how2code.info
-  base_url:"https://yellow-stone-0828ff30f.3.azurestaticapps.net" # used by oauth authentication, for example https://www.how2code.info
+  site_domain: "www.yellow-stone-0828ff30f.3.azurestaticapps.net" # for example www.how2code.info
+  base_url: "https://yellow-stone-0828ff30f.3.azurestaticapps.net" # used by oauth authentication, for example https://www.how2code.info
   auth_endpoint: api/auth # don't change, used for azure static webapp oauth authentication
 
 media_folder: "app/static/images" # Folder where user uploaded files should go
