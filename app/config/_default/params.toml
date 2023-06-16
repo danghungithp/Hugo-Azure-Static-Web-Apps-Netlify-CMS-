@@ -1,5 +1,5 @@
-author = "Jane Doe"
-twitter = "@janedoe"
+author = "Muasamthongminh"
+twitter = "@Muasamthongminh"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
 # introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
@@ -84,6 +84,6 @@ iconsDir = "icons/" # without a leading forward slash
 
 [plausible_analytics]
 enable = false # to enable plausible analytics set to true.
-websiteDomain = "example.com" # domain name of your website, most cases same as your base url
+websiteDomain = "yellow-stone-0828ff30f.3.azurestaticapps.net" # domain name of your website, most cases same as your base url
 # plausibleDomain = "plausible.io" # default is set to plausible.io, only required if plausible is selfhosted
 # scritpName = "plausible" # default is set to plausible, only required if using a custome name for script
