@@ -11,7 +11,7 @@ tags:
   - mới nhất ngày hôm nay
 description: Mã giảm giá shopee tốt nhất, mới nhất ngày hôm nay
 ---
-```html
+html:
  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" />
