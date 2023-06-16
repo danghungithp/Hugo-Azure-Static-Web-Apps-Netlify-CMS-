@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: # for example username/reponame
+  repo: "danghungithp/Hugo-Azure-Static-Web-Apps-Netlify-CMS-" # for example username/reponame
   branch: main # Branch to update (optional; defaults to master)
   site_domain: "www.yellow-stone-0828ff30f.3.azurestaticapps.net" # for example www.how2code.info
   base_url: "https://yellow-stone-0828ff30f.3.azurestaticapps.net" # used by oauth authentication, for example https://www.how2code.info
